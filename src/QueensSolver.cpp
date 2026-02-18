@@ -234,7 +234,7 @@ int QueensSolver::solve() {
         }
     }
     
-    cout << "\n\n✗ TIDAK ADA SOLUSI" << endl;
+    
     cout << "Iterasi akhir: " << iterationCount << " / " << totalCombinations << endl;
     return 0;
 }
